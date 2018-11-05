@@ -1,5 +1,4 @@
 absl-py==0.6.1
-appnope==0.1.0
 astor==0.7.1
 backcall==0.1.0
 bleach==3.0.2
@@ -32,11 +31,12 @@ mistune==0.8.4
 nbconvert==5.4.0
 nbformat==4.4.0
 notebook==5.7.0
-numpy==1.15.3
+numpy==1.14.5
 pandocfilters==1.4.2
 parso==0.3.1
 pexpect==4.6.0
 pickleshare==0.7.5
+Pillow==5.3.0
 prometheus-client==0.4.2
 prompt-toolkit==2.0.6
 protobuf==3.6.1
@@ -50,8 +50,8 @@ qtconsole==4.4.2
 scipy==1.1.0
 Send2Trash==1.5.0
 six==1.11.0
-tensorboard==1.11.0
-tensorflow==1.11.0
+tensorboard==1.10.0
+tensorflow-gpu==1.10.0
 termcolor==1.1.0
 terminado==0.8.1
 testpath==0.4.2
